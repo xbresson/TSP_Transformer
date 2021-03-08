@@ -9,7 +9,7 @@ Feb, 2021
 
 
 ### Description
-PyTorch implementation of TSP Transformer<br>
+PyTorch implementation of "The Transformer Network for the Traveling Salesman Problem"<br>
 Xavier Bresson and Thomas Laurent<br>
 ArXiv : [https://arxiv.org/pdf/2103.03012.pdf](https://arxiv.org/pdf/2103.03012.pdf) <br>
 Talk : [https://ipam.wistia.com/medias/0jrweluovs](https://ipam.wistia.com/medias/0jrweluovs) <br>
