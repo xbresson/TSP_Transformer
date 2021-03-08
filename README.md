@@ -5,11 +5,12 @@ Feb, 2021
 
 
 
-<img src="pic/tsp100.jpg" align="right" width="160" /> 
+<img src="pic/tsp100.jpg" align="right" width="200" /> 
 
 
 ### Description
-PyTorch implementation of TSP Transformer, Xavier Bresson and Thomas Laurent.<br>
+PyTorch implementation of TSP Transformer<br>
+Xavier Bresson and Thomas Laurent<br>
 ArXiv : [https://arxiv.org/pdf/2103.03012.pdf](https://arxiv.org/pdf/2103.03012.pdf) <br>
 Talk : [https://ipam.wistia.com/medias/0jrweluovs](https://ipam.wistia.com/medias/0jrweluovs) <br>
 Slides : [https://t.co/ySxGiKtQL5](https://t.co/ySxGiKtQL5)<br>
