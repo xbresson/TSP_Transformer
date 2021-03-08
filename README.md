@@ -5,7 +5,7 @@ Feb, 2021
 
 
 
-<img src="pic/tsp100.jpg" align="right" width="200" />
+<img src="pic/tsp100.jpg" align="right" width="190" /> 
 
 
 ### Description
