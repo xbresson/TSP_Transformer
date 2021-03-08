@@ -1,0 +1,20 @@
+name: tsp_transformer
+channels:
+- pytorch 
+dependencies:
+- python=3.7.7
+- numpy=1.19.1
+- mkl=2020.2
+- ipython=7.17.0
+- jupyter=1.0.0
+- matplotlib=3.3.1
+- networkx=2.5
+- git=2.23.0
+- pandas=1.1.1
+- scipy=1.5.2
+- cython=0.29.21
+- cudatoolkit=10.1
+- pytorch=1.6
+- pip=20.2.2
+- pip:
+  - -e pyconcorde 
