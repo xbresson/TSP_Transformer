@@ -41,8 +41,7 @@ jupyter notebook # start jupyter notebook
 
 
 ### Results
-NVIDIA GeForce RTX 2080 TI Card <br>
-1. Network Training <br>
+1. Network Training (with RTX 2080 Ti 11GB) <br>
 TSP50 (1 GPU) : Run notebook 'train_tsp_transformer_TSP50.ipynb'<br>
 TSP100 (2 GPUs) : Run notebook 'train_tsp_transformer_TSP100.ipynb'<br>
 2. Network Testing <br>
